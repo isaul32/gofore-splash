@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Gofore
+Description=Gofore
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/gofore
+ScriptFile=/usr/share/plymouth/themes/gofore/gofore.script
